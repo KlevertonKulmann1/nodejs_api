@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nome": "Bife a cavalo",
+    "ingredientes": "Bife, 2 ovos, Arroz, Feijão e Batata Frita",
+    "preco": 30,
+    "estoque": 30,
+    "categoria": "Prato Principal"
+  },
+  {
+    "id": 2,
+    "nome": "Hamburguer de carne bovina",
+    "ingredientes": "Pão integral, Hamburguer de carne bovina, Queijo, Bacon, Cheddar e Picles",
+    "preco": 65,
+    "estoque": 10,
+    "categoria": "Lanche"
+  },
+  {
+    "id": 4,
+    "nome": "Coca-Cola",
+    "ingredientes": "Garrafa com 2L",
+    "preco": 12,
+    "estoque": 50,
+    "categoria": "Bebida"
+  },
+  {
+    "id": 5,
+    "nome": "Porção de Filé Mignom",
+    "preco": 80,
+    "estoque": 10,
+    "categoria": "Porção"
+  }
+]
